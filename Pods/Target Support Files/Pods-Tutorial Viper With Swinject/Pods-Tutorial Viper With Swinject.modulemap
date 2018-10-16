@@ -1,0 +1,6 @@
+framework module Pods_Tutorial_Viper_With_Swinject {
+  umbrella header "Pods-Tutorial Viper With Swinject-umbrella.h"
+
+  export *
+  module * { export * }
+}
